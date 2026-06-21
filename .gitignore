@@ -1,0 +1,58 @@
+# ── Virtual environment ────────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Python cache & compiled files ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# ── Distribution / packaging ───────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# ── Type checking & linting caches ────────────────────────────────────────────
+.mypy_cache/
+.ruff_cache/
+.pylintrc.cache
+
+# ── Environment / secrets ──────────────────────────────────────────────────────
+.env
+.env.*
+*.env
+secrets.toml
+
+# ── IDE files ──────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.iml
+*.suo
+*.user
+
+# ── Claude Code internal ───────────────────────────────────────────────────────
+.claude/
+
+# ── Streamlit ──────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Jupyter ────────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS artifacts ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Test & coverage artifacts ──────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+playwright-report/
+test-results/

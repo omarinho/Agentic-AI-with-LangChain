@@ -1,0 +1,54 @@
+date,amount,category,description
+2025-04-01,1500.00,Housing,Monthly Rent
+2025-04-02,120.00,Utilities,Electric Bill
+2025-04-03,65.00,Utilities,Internet Service
+2025-04-05,280.00,Food & Dining,Weekly Groceries
+2025-04-07,85.00,Transportation,Gas Station
+2025-04-10,15.99,Entertainment,Netflix Subscription
+2025-04-10,9.99,Entertainment,Spotify Premium
+2025-04-12,65.00,Food & Dining,Restaurant Dinner
+2025-04-14,120.00,Shopping,Amazon Purchase
+2025-04-15,45.00,Healthcare,Gym Membership
+2025-04-17,35.00,Food & Dining,Coffee Shop
+2025-04-20,25.00,Transportation,Uber Rides
+2025-04-21,180.00,Shopping,Clothing Store
+2025-04-23,220.00,Food & Dining,Grocery Run
+2025-04-25,29.99,Education,Udemy Course
+2025-04-28,30.00,Entertainment,Movie Theater
+2025-04-30,95.00,Transportation,Car Insurance
+2025-05-01,1500.00,Housing,Monthly Rent
+2025-05-02,135.00,Utilities,Electric Bill
+2025-05-03,65.00,Utilities,Internet Service
+2025-05-05,295.00,Food & Dining,Weekly Groceries
+2025-05-07,90.00,Transportation,Gas Station
+2025-05-10,15.99,Entertainment,Netflix Subscription
+2025-05-10,9.99,Entertainment,Spotify Premium
+2025-05-12,85.00,Food & Dining,Restaurant Dinner
+2025-05-14,150.00,Healthcare,Doctor Visit
+2025-05-15,45.00,Healthcare,Pharmacy
+2025-05-17,210.00,Shopping,Home Improvement
+2025-05-18,40.00,Food & Dining,Coffee Shop
+2025-05-20,35.00,Transportation,Uber Rides
+2025-05-22,95.00,Shopping,Amazon Purchase
+2025-05-23,250.00,Food & Dining,Grocery Run
+2025-05-25,24.99,Education,Book Purchase
+2025-05-28,75.00,Entertainment,Concert Tickets
+2025-05-30,95.00,Transportation,Car Insurance
+2025-06-01,1500.00,Housing,Monthly Rent
+2025-06-02,145.00,Utilities,Electric Bill
+2025-06-03,65.00,Utilities,Internet Service
+2025-06-05,310.00,Food & Dining,Weekly Groceries
+2025-06-07,95.00,Transportation,Gas Station
+2025-06-10,15.99,Entertainment,Netflix Subscription
+2025-06-10,9.99,Entertainment,Spotify Premium
+2025-06-12,95.00,Food & Dining,Restaurant Dinner
+2025-06-14,250.00,Shopping,Summer Clothes
+2025-06-15,45.00,Healthcare,Gym Membership
+2025-06-17,45.00,Food & Dining,Coffee Shop
+2025-06-18,145.00,Shopping,Amazon Purchase
+2025-06-20,30.00,Transportation,Uber Rides
+2025-06-21,120.00,Entertainment,Theme Park
+2025-06-23,275.00,Food & Dining,Grocery Run
+2025-06-25,49.99,Education,Online Course
+2025-06-27,80.00,Others,Birthday Gift
+2025-06-30,95.00,Transportation,Car Insurance
